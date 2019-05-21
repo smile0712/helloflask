@@ -1,0 +1,6 @@
+<application>
+  <component name="RSettings">
+    <option name="interpreterPath" value="/Applications/R.app/Contents/MacOS/R" />
+    <option name="resolveInModule" value="true" />
+  </component>
+</application>
